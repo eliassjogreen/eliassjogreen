@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🎂-dec. 2003-success" />
   <img src="https://img.shields.io/badge/🌎-Stockholm-informational" />
+  <img src="https://img.shields.io/badge/👦-He/Him-informational" />
 </p>
 
 ### 📫 How to reach me:
@@ -13,7 +14,11 @@
 
 ### 🗄 My projects:
 
-<!--GITHUB_REPOS:{"rows": 4}-->
+#### Top
+<!--GITHUB_REPOS:{"rows": 2, "sort": "stars"}-->
+
+#### Latest
+<!--GITHUB_REPOS:{"rows": 2, "sort": "created"}-->
 
 ### 🗣 My activity:
 
