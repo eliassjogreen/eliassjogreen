@@ -23,8 +23,8 @@
 #### Latest
 |*|Stars|Repo|Description|
 |---|---|---|---|
+| 📦 | 0 | [LarsSjogreen/ADnD-2nd-edition-helper](https://github.com/LarsSjogreen/ADnD-2nd-edition-helper) | null |
 | 📦 | 0 | [LarsSjogreen/eulerJS](https://github.com/LarsSjogreen/eulerJS) | Programming training with my son (and myself) |
-| 📦 | 0 | [eliassjogreen/CFG-Edit](https://github.com/eliassjogreen/CFG-Edit) | 🚀 A html/js based tool for Kerbal space program modders! |
 
 ### 🗣 My activity:
 
@@ -36,8 +36,7 @@
 🗣 Commented on #37 in webview/webview_deno
 ❗️ Closed issue #20 in webview/webview_deno
 🗣 Commented on #20 in webview/webview_deno
-❗️ Closed issue #14 in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, July 30th 2020, 1:43:05 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, July 30th 2020, 1:44:47 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
