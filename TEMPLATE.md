@@ -18,7 +18,7 @@
 <!--GITHUB_REPOS:{"rows": 2, "sort": "stars"}-->
 
 #### Latest
-<!--GITHUB_REPOS:{"rows": 2, "sort": "created"}-->
+<!--GITHUB_REPOS:{"rows": 2, "sort": "updated"}-->
 
 ### 🗣 My activity:
 
