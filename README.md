@@ -24,6 +24,7 @@
 
 ```
 🗣 Commented on #2 in whistle-lang/whistle
+🗣 Commented on #2 in whistle-lang/whistle
 🍴 Forked eliassjogreen/velociraptor from umbopepato/velociraptor
 💪 Opened PR #2 in actions-js/profile-readme
 🍴 Forked eliassjogreen/profile-readme from actions-js/profile-readme
@@ -32,8 +33,7 @@
 🗣 Commented on #30 in webview/webview_deno
 ❗️ Closed issue #37 in webview/webview_deno
 🗣 Commented on #37 in webview/webview_deno
-❗️ Closed issue #20 in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, August 2nd 2020, 11:11:53 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, August 2nd 2020, 12:16:24 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
