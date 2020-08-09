@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+❌ Closed PR #2 in whistle-lang/whistle
+🗣 Commented on #2 in whistle-lang/whistle
 🗣 Commented on #48 in webview/webview_deno
 🗣 Commented on #84 in denosaurs/denon
 🗣 Commented on #2 in whistle-lang/whistle
@@ -31,8 +33,7 @@
 💪 Opened PR #2 in actions-js/profile-readme
 🍴 Forked eliassjogreen/profile-readme from actions-js/profile-readme
 🗣 Commented on #82 in denosaurs/denon
-💪 Opened PR #4389 in js-org/js.org
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, August 9th 2020, 1:12:31 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, August 9th 2020, 2:14:05 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
