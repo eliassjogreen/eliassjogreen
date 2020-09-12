@@ -18,7 +18,7 @@
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 528 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
-| 📦 | 499 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
+| 📦 | 500 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 
 ### 🗣 My activity:
 
@@ -30,4 +30,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, September 12th 2020, 6:17:55 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, September 12th 2020, 7:16:03 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
