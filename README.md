@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.2.0 - deno 1.4.0 support" in denosaurs/cache
 🎉 Merged PR #3 in denosaurs/cache
 🗣 Commented on #3 in denosaurs/cache
 💪 Opened PR #7451 in denoland/deno
@@ -32,8 +33,7 @@
 💪 Opened PR #2 in denosaurs/bench
 🗣 Commented on #7436 in denoland/deno
 💪 Opened PR #1 in denosaurs/bench
-🗣 Commented on #51 in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, September 13th 2020, 7:15:22 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, September 13th 2020, 8:17:30 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
