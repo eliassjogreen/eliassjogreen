@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #12 in denosaurs/denord
 📦 Released "v0.1.5" in denosaurs/release
 📦 Released "v0.1.4" in denosaurs/release
 📦 Released "v0.2.0 - deno 1.4.0 support" in denosaurs/cache
@@ -32,8 +33,7 @@
 🍴 Forked eliassjogreen/deno from denoland/deno
 ❗️ Closed issue #53 in webview/webview_deno
 🗣 Commented on #53 in webview/webview_deno
-💪 Opened PR #2 in denosaurs/bench
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, September 14th 2020, 3:16:24 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, September 14th 2020, 4:17:23 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
