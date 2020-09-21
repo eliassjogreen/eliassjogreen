@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #1 in amatiasq/deno
 🗣 Commented on #12 in webview/webview_deno
 🗣 Commented on #27 in webview/webview_deno
 🗣 Commented on #1 in amatiasq/deno
@@ -32,8 +33,7 @@
 🎉 Merged PR #5 in denosaurs/wait
 ❗️ Closed issue #3 in denosaurs/wait
 🗣 Commented on #5 in denosaurs/wait
-🗣 Commented on #3 in denosaurs/wait
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, September 21st 2020, 1:16:12 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, September 21st 2020, 2:18:00 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
