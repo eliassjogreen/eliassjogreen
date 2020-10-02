@@ -23,17 +23,17 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v2.4.1 - Fixed windows issue" in denosaurs/denon
+❗️ Closed issue #102 in denosaurs/denon
+🗣 Commented on #102 in denosaurs/denon
+🗣 Commented on #102 in denosaurs/denon
+🎉 Merged PR #105 in denosaurs/denon
+💪 Opened PR #105 in denosaurs/denon
 📦 Released "" in denosaurs/parry
 💪 Opened PR #7774 in denoland/deno
 🍴 Forked eliassjogreen/deno from denoland/deno
 ❌ Closed PR #7451 in denoland/deno
-🗣 Commented on #7451 in denoland/deno
-🗣 Commented on #986 in denoland/deno
-❗️ Opened issue #38 in elsaland/elsa
-❗️ Opened issue #4 in denosaurs/plug
-🎉 Merged PR #103 in denosaurs/denon
-🗣 Commented on #1 in amatiasq/deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, October 2nd 2020, 7:18:13 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, October 2nd 2020, 8:20:18 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
