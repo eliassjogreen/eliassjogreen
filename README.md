@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🍴 Forked eliassjogreen/deno_swc from nestdotland/deno_swc
 📦 Released "v2.4.1 - Fixed windows issue" in denosaurs/denon
 ❗️ Closed issue #102 in denosaurs/denon
 🗣 Commented on #102 in denosaurs/denon
@@ -32,8 +33,7 @@
 📦 Released "" in denosaurs/parry
 💪 Opened PR #7774 in denoland/deno
 🍴 Forked eliassjogreen/deno from denoland/deno
-❌ Closed PR #7451 in denoland/deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, October 2nd 2020, 12:33:57 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, October 2nd 2020, 1:17:01 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
