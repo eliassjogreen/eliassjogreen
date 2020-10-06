@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+❗️ Opened issue #5 in denosaurs/bench
 🎉 Merged PR #3 in denosaurs/bench
 ❗️ Opened issue #23 in nestdotland/deno_swc
 📦 Released "v0.1.8 - bumped deps and fixed cursor  🐢" in denosaurs/wait
@@ -32,8 +33,7 @@
 📦 Released "v2.4.1 - Fixed windows issue" in denosaurs/denon
 ❗️ Closed issue #102 in denosaurs/denon
 🗣 Commented on #102 in denosaurs/denon
-🗣 Commented on #102 in denosaurs/denon
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, October 6th 2020, 5:16:41 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, October 6th 2020, 6:19:50 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
