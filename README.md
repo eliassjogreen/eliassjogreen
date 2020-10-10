@@ -18,22 +18,22 @@
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 565 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
-| 📦 | 534 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
+| 📦 | 535 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 
 ### 🗣 My activity:
 
 ```
+📦 Released "v2.4.2 - 📢 re implemented logger options, bug fixes" in denosaurs/denon
+🗣 Commented on #98 in denosaurs/denon
+❗️ Closed issue #91 in denosaurs/denon
+🗣 Commented on #91 in denosaurs/denon
 🗣 Commented on #101 in denosaurs/denon
 ❗️ Closed issue #101 in denosaurs/denon
 🎉 Merged PR #106 in denosaurs/denon
 💪 Opened PR #106 in denosaurs/denon
 🗣 Commented on #101 in denosaurs/denon
 ❗️ Opened issue #5 in denosaurs/bench
-🎉 Merged PR #3 in denosaurs/bench
-❗️ Opened issue #23 in nestdotland/deno_swc
-📦 Released "v0.1.8 - bumped deps and fixed cursor  🐢" in denosaurs/wait
-❗️ Closed issue #2 in denosaurs/wait
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, October 10th 2020, 11:17:35 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, October 10th 2020, 12:23:57 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
