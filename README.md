@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "" in denosaurs/denon
+📦 Released "v2.4.2 - 📢 re implemented logger config, bug fixes" in denosaurs/denon
 📦 Released "v2.4.2 - 📢 re implemented logger options, bug fixes" in denosaurs/denon
 🗣 Commented on #98 in denosaurs/denon
 ❗️ Closed issue #91 in denosaurs/denon
@@ -31,9 +33,7 @@
 ❗️ Closed issue #101 in denosaurs/denon
 🎉 Merged PR #106 in denosaurs/denon
 💪 Opened PR #106 in denosaurs/denon
-🗣 Commented on #101 in denosaurs/denon
-❗️ Opened issue #5 in denosaurs/bench
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, October 10th 2020, 12:23:57 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, October 10th 2020, 1:17:39 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
