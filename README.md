@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #57 in denosaurs/denon
 🎉 Merged PR #6 in denosaurs/bench
 🗣 Commented on #101 in denosaurs/denon
 🗣 Commented on #101 in denosaurs/denon
@@ -32,8 +33,7 @@
 🗣 Commented on #108 in denosaurs/denon
 🗣 Commented on #49 in denosaurs/denon
 🗣 Commented on #49 in denosaurs/denon
-📦 Released "" in denosaurs/denon
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, October 14th 2020, 9:21:07 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, October 14th 2020, 10:20:44 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
