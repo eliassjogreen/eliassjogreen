@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.0.3" in denosaurs/sauron
 🎉 Merged PR #1 in eliassjogreen/deno
 💪 Opened PR #1 in eliassjogreen/deno
 📦 Released "v0.0.1" in denosaurs/sauron
@@ -32,8 +33,7 @@
 🗣 Commented on #101 in denosaurs/denon
 🗣 Commented on #101 in denosaurs/denon
 ❗️ Closed issue #74 in denosaurs/denon
-🗣 Commented on #74 in denosaurs/denon
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, October 23rd 2020, 9:19:23 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, October 23rd 2020, 10:21:19 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
