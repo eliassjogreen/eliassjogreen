@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #16 in denosaurs/bench
+🗣 Commented on #16 in denosaurs/bench
 🎉 Merged PR #15 in denosaurs/bench
 🗣 Commented on #15 in denosaurs/bench
 🎉 Merged PR #14 in denosaurs/bench
@@ -31,9 +33,7 @@
 🎉 Merged PR #13 in denosaurs/bench
 🗣 Commented on #13 in denosaurs/bench
 🎉 Merged PR #6 in denosaurs/mod.land
-🗣 Commented on #6 in denosaurs/mod.land
-📦 Released "v0.0.3" in denosaurs/sauron
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, October 27th 2020, 10:22:21 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, October 27th 2020, 11:20:13 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
