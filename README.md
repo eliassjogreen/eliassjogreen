@@ -23,17 +23,17 @@
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #4 in denosaurs/cache
+❌ Closed PR #5 in denosaurs/cache
+🗣 Commented on #5 in denosaurs/cache
+❗️ Closed issue #2 in denosaurs/cache
+🗣 Commented on #2 in denosaurs/cache
+📦 Released "v0.2.5" in denosaurs/cache
 🎉 Merged PR #17 in denosaurs/bench
 🗣 Commented on #17 in denosaurs/bench
 🗣 Commented on #8137 in denoland/deno
 🎉 Merged PR #16 in denosaurs/bench
-🗣 Commented on #16 in denosaurs/bench
-🎉 Merged PR #15 in denosaurs/bench
-🗣 Commented on #15 in denosaurs/bench
-🎉 Merged PR #14 in denosaurs/bench
-🗣 Commented on #14 in denosaurs/bench
-🗣 Commented on #14 in denosaurs/bench
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, November 2nd 2020, 4:25:41 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, November 2nd 2020, 5:13:19 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
