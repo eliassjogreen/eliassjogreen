@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.2" in eliassjogreen/twinprime
+📦 Released "v0.1.1" in eliassjogreen/twinprime
 🗣 Commented on #102 in denosaurs/denon
 ❗️ Reopened issue #102 in denosaurs/denon
 🗣 Commented on #102 in denosaurs/denon
@@ -31,9 +33,7 @@
 ❌ Closed PR #5 in denosaurs/cache
 🗣 Commented on #5 in denosaurs/cache
 ❗️ Closed issue #2 in denosaurs/cache
-🗣 Commented on #2 in denosaurs/cache
-📦 Released "v0.2.5" in denosaurs/cache
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, November 9th 2020, 2:18:15 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, November 9th 2020, 3:15:09 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
