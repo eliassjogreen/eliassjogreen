@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #8 in denosaurs/mod.land
 🎉 Merged PR #1 in denosaurs/status
 📦 Released "" in denosaurs/pane
 📦 Released "" in denosaurs/pane
@@ -32,8 +33,7 @@
 📦 Released "v0.1.2" in eliassjogreen/twinprime
 📦 Released "v0.1.1" in eliassjogreen/twinprime
 🗣 Commented on #102 in denosaurs/denon
-❗️ Reopened issue #102 in denosaurs/denon
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, November 19th 2020, 7:12:40 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 19th 2020, 8:14:56 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
