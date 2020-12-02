@@ -23,6 +23,9 @@
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #12 in webview/webview_deno
+🗣 Commented on #12 in webview/webview_deno
+📦 Released "v0.5.3 - 🌐 Two way deno <-> webview bindings" in webview/webview_deno
 📦 Released "v0.5.1" in webview/webview_deno
 ❗️ Closed issue #56 in webview/webview_deno
 🗣 Commented on #56 in webview/webview_deno
@@ -30,10 +33,7 @@
 🗣 Commented on #5 in webview/webview_deno
 ❗️ Closed issue #51 in webview/webview_deno
 ❗️ Closed issue #45 in webview/webview_deno
-❗️ Opened issue #8567 in denoland/deno
-💪 Opened PR #20 in lucacasonato/deno_s3
-❗️ Opened issue #19 in lucacasonato/deno_s3
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, December 2nd 2020, 12:47:14 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, December 2nd 2020, 1:34:33 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
