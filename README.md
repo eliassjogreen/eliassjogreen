@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #3234 in denoland/deno
 🗣 Commented on #12 in webview/webview_deno
 ❗️ Closed issue #12 in webview/webview_deno
 🗣 Commented on #12 in webview/webview_deno
@@ -32,8 +33,7 @@
 🗣 Commented on #56 in webview/webview_deno
 ❗️ Closed issue #5 in webview/webview_deno
 🗣 Commented on #5 in webview/webview_deno
-❗️ Closed issue #51 in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, December 2nd 2020, 11:16:52 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, December 3rd 2020, 12:46:22 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
