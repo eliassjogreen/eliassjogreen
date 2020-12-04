@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #60 in webview/webview_deno
 🗣 Commented on #3234 in denoland/deno
 🗣 Commented on #12 in webview/webview_deno
 ❗️ Closed issue #12 in webview/webview_deno
@@ -32,8 +33,7 @@
 ❗️ Closed issue #56 in webview/webview_deno
 🗣 Commented on #56 in webview/webview_deno
 ❗️ Closed issue #5 in webview/webview_deno
-🗣 Commented on #5 in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, December 4th 2020, 10:20:12 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, December 4th 2020, 11:17:29 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
