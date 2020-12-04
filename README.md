@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.5.5 - callback handling of events" in webview/webview_deno
+📦 Released "v0.5.4 - `for await` handling for events" in webview/webview_deno
 🎉 Merged PR #60 in webview/webview_deno
 🗣 Commented on #3234 in denoland/deno
 🗣 Commented on #12 in webview/webview_deno
@@ -31,9 +33,7 @@
 📦 Released "v0.5.3 - 🌐 Two way deno <-> webview bindings" in webview/webview_deno
 📦 Released "v0.5.1" in webview/webview_deno
 ❗️ Closed issue #56 in webview/webview_deno
-🗣 Commented on #56 in webview/webview_deno
-❗️ Closed issue #5 in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, December 4th 2020, 11:17:29 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, December 4th 2020, 12:25:04 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
