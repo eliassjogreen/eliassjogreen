@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #19 in denosaurs/bench
 🎉 Merged PR #10 in denosaurs/mod.land
 🗣 Commented on #61 in webview/webview_deno
 🗣 Commented on #92 in denosaurs/denon
@@ -32,8 +33,7 @@
 🗣 Commented on #112 in denosaurs/denon
 🗣 Commented on #113 in denosaurs/denon
 📦 Released "v0.5.5 - callback handling of events" in webview/webview_deno
-📦 Released "v0.5.4 - `for await` handling for events" in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, December 18th 2020, 2:24:33 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, December 18th 2020, 3:22:14 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
