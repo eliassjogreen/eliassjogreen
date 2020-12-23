@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #20 in denosaurs/bench
 🎉 Merged PR #19 in denosaurs/bench
 🎉 Merged PR #10 in denosaurs/mod.land
 🗣 Commented on #61 in webview/webview_deno
@@ -32,8 +33,7 @@
 ❗️ Closed issue #98 in denosaurs/denon
 🗣 Commented on #112 in denosaurs/denon
 🗣 Commented on #113 in denosaurs/denon
-📦 Released "v0.5.5 - callback handling of events" in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, December 23rd 2020, 3:25:29 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, December 23rd 2020, 4:42:06 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
