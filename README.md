@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.0" in denosaurs/font
 📦 Released "v2.4.6 - ⚙️ Updated dependencies and bug fix" in denosaurs/denon
 🗣 Commented on #114 in denosaurs/denon
 ❌ Closed PR #115 in denosaurs/denon
@@ -32,8 +33,7 @@
 🗣 Commented on #66 in webview/webview_deno
 📦 Released "0.1.0 - 📝 docs!" in denosaurs/pane
 🗣 Commented on #8912 in denoland/deno
-🎉 Merged PR #12 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, January 7th 2021, 2:30:15 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, January 7th 2021, 3:25:07 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
