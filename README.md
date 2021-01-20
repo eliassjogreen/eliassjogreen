@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #122 in denosaurs/denon
 ❗️ Closed issue #121 in denosaurs/denon
 🗣 Commented on #121 in denosaurs/denon
 🗣 Commented on #4222 in denoland/deno
@@ -32,8 +33,7 @@
 🗣 Commented on #70 in webview/webview_deno
 💪 Opened PR #9058 in denoland/deno
 🍴 Forked eliassjogreen/deno from denoland/deno
-📦 Released "v0.1.0" in denosaurs/font
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, January 20th 2021, 11:51:15 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, January 20th 2021, 12:51:04 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
