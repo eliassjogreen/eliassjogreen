@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.0.3" in denosaurs/gmath
 📦 Released "v0.0.2" in denosaurs/gmath
 ❗️ Closed issue #119 in denosaurs/denon
 📦 Released "v0.0.1" in denosaurs/gmath
@@ -32,8 +33,7 @@
 📦 Released "v0.5.6 - deno 1.7.1 support " in webview/webview_deno
 ❗️ Closed issue #6 in denosaurs/wait
 🗣 Commented on #6 in denosaurs/wait
-🎉 Merged PR #124 in denosaurs/denon
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, February 15th 2021, 12:47:57 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, February 15th 2021, 1:44:07 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
