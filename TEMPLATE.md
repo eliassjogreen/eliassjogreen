@@ -15,7 +15,7 @@
 ### 🗄 My projects:
 
 #### Top
-<!--GITHUB_REPOS:{"rows": 2, "sort": "stars"}-->
+<!--GITHUB_REPOS:{"rows": 4, "sort": "stars"}-->
 
 ### 🗣 My activity:
 
