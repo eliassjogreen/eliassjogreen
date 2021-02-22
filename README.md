@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.0" in denosaurs/byte_type
 📦 Released "v0.0.1" in denosaurs/obj
 📦 Released "v0.0.6" in denosaurs/gmath
 📦 Released "v0.0.5" in denosaurs/gmath
@@ -32,8 +33,7 @@
 📦 Released "v0.0.1" in denosaurs/pngs
 📦 Released "v0.0.3" in denosaurs/gmath
 📦 Released "v0.0.2" in denosaurs/gmath
-❗️ Closed issue #119 in denosaurs/denon
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, February 22nd 2021, 12:48:24 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, February 22nd 2021, 1:46:09 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
