@@ -17,12 +17,15 @@
 #### Top
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 702 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
+| 📦 | 703 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 | 📦 | 688 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #71 in webview/webview_deno
+❗️ Closed issue #67 in webview/webview_deno
+🗣 Commented on #67 in webview/webview_deno
 📦 Released "v0.1.1" in denosaurs/byte_type
 📦 Released "v0.1.0" in denosaurs/byte_type
 📦 Released "v0.0.1" in denosaurs/obj
@@ -30,10 +33,7 @@
 📦 Released "v0.0.5" in denosaurs/gmath
 📦 Released "v0.0.4" in denosaurs/gmath
 📦 Released "v0.1.1" in denosaurs/pngs
-📦 Released "v0.1.0" in denosaurs/pngs
-📦 Released "v0.0.1" in denosaurs/pngs
-📦 Released "v0.0.3" in denosaurs/gmath
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, February 24th 2021, 10:27:06 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, February 24th 2021, 11:24:02 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
