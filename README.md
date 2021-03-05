@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #6 in whistle-lang/whistle
 🗣 Commented on #6 in whistle-lang/whistle
 📦 Released "v0.1.7" in denosaurs/gmath
 📦 Released "v0.1.8" in denosaurs/gmath
@@ -32,8 +33,7 @@
 📦 Released "v0.1.3" in denosaurs/gmath
 📦 Released "v0.1.2" in denosaurs/gmath
 📦 Released "v0.1.1" in denosaurs/gmath
-🗣 Commented on #1 in denosaurs/algebra
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, March 5th 2021, 3:19:39 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, March 5th 2021, 4:32:35 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
