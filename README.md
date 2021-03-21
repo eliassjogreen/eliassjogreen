@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+🍴 Forked eliassjogreen/deno from denoland/deno
+📦 Released "v0.1.3 - Use latest plugin binaries" in denosaurs/pane
 🗣 Commented on #123 in denosaurs/denon
 🗣 Commented on #72 in webview/webview_deno
 ❗️ Closed issue #72 in webview/webview_deno
@@ -31,9 +33,7 @@
 🗣 Commented on #129 in denosaurs/denon
 🗣 Commented on #9257 in denoland/deno
 🎉 Merged PR #6 in whistle-lang/whistle
-🗣 Commented on #6 in whistle-lang/whistle
-📦 Released "v0.1.7" in denosaurs/gmath
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, March 21st 2021, 2:20:41 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, March 21st 2021, 3:20:37 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
