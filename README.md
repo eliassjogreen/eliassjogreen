@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #1 in denosaurs/opus
+❗️ Closed issue #1 in denosaurs/opus
 🗣 Commented on #67 in webview/webview_deno
 🎉 Merged PR #7 in denosaurs/cache
 🗣 Commented on #9850 in denoland/deno
@@ -31,9 +33,7 @@
 🍴 Forked eliassjogreen/deno from denoland/deno
 🎉 Merged PR #1 in eliassjogreen/deno
 💪 Opened PR #1 in eliassjogreen/deno
-🍴 Forked eliassjogreen/deno from denoland/deno
-📦 Released "v0.1.3 - Use latest plugin binaries" in denosaurs/pane
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, April 3rd 2021, 6:35:23 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, April 3rd 2021, 7:22:26 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
