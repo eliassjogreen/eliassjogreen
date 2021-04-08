@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v1.0.0" in denosaurs/event
 ❗️ Closed issue #11 in denoland/deploy_feedback
 🗣 Commented on #11 in denoland/deploy_feedback
 ❗️ Opened issue #11 in denoland/deploy_feedback
@@ -32,8 +33,7 @@
 🎉 Merged PR #7 in denosaurs/cache
 🗣 Commented on #9850 in denoland/deno
 ❌ Closed PR #9058 in denoland/deno
-💪 Opened PR #9850 in denoland/deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, April 8th 2021, 5:48:22 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, April 8th 2021, 6:36:47 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
