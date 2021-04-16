@@ -18,11 +18,12 @@
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 759 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
-| 📦 | 746 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
+| 📦 | 747 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #21 in denosaurs/bench
 🎉 Merged PR #23 in denosaurs/mod.land
 🗣 Commented on #23 in denosaurs/mod.land
 🗣 Commented on #76 in webview/webview_deno
@@ -32,8 +33,7 @@
 🎉 Merged PR #21 in denosaurs/mod.land
 🗣 Commented on #18 in denosaurs/mod.land
 ❗️ Closed issue #19 in denosaurs/mod.land
-🎉 Merged PR #18 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, April 16th 2021, 6:34:14 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, April 16th 2021, 7:22:57 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
