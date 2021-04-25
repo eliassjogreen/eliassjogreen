@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+❗️ Opened issue #13 in lucacasonato/deno_aws_sign_v4
 ❗️ Closed issue #1 in denosaurs/gmath
 📦 Released "v0.1.9" in denosaurs/gmath
 🗣 Commented on #10 in christophgysin/aws-sdk-js-v3
@@ -32,8 +33,7 @@
 ❗️ Closed issue #18 in denosaurs/bench
 🎉 Merged PR #21 in denosaurs/bench
 🎉 Merged PR #23 in denosaurs/mod.land
-🗣 Commented on #23 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, April 25th 2021, 10:24:13 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, April 25th 2021, 11:19:29 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
