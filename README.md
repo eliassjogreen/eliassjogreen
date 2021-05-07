@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #10427 in denoland/deno
 🗣 Commented on #6 in webview/webview_deno
 🗣 Commented on #64 in webview/webview_deno
 🗣 Commented on #76 in webview/webview_deno
@@ -32,8 +33,7 @@
 🎉 Merged PR #24 in denosaurs/mod.land
 ❌ Closed PR #9850 in denoland/deno
 ❗️ Opened issue #5 in denosaurs/crux.land
-📦 Released "v0.0.2" in denosaurs/obj
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, May 6th 2021, 11:21:33 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, May 7th 2021, 1:01:04 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
