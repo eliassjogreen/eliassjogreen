@@ -17,12 +17,13 @@
 #### Top
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 784 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
+| 📦 | 785 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 | 📦 | 769 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.6.0-pre.0" in webview/webview_deno
 💪 Opened PR #10541 in denoland/deno
 🗣 Commented on #10540 in denoland/deno
 ❗️ Opened issue #10540 in denoland/deno
@@ -32,8 +33,7 @@
 🎉 Merged PR #28 in denosaurs/mod.land
 📦 Released "v0.2.0-pre.0 - deno 1.10 (deno#10427) support" in denosaurs/pane
 📦 Released "v0.2.0-pre.0 - deno 1.10 (deno#10427) support" in denosaurs/pane
-🗣 Commented on #28 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, May 12th 2021, 11:22:57 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, May 13th 2021, 1:08:42 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
