@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.2.0 - deno 1.10.2, winit 0.25.0" in denosaurs/pane
 ❗️ Closed issue #80 in webview/webview_deno
 🗣 Commented on #80 in webview/webview_deno
 🗣 Commented on #79 in webview/webview_deno
@@ -32,8 +33,7 @@
 💪 Opened PR #10541 in denoland/deno
 🗣 Commented on #10540 in denoland/deno
 ❗️ Opened issue #10540 in denoland/deno
-📦 Released "v0.3.0" in denosaurs/plug
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, May 17th 2021, 11:24:02 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, May 18th 2021, 1:11:45 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
