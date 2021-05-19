@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #1 in denosaurs/pane
 📦 Released "v0.2.1" in denosaurs/pane
 📦 Released "v0.3.1" in denosaurs/plug
 📦 Released "v0.2.12" in denosaurs/cache
@@ -32,8 +33,7 @@
 🗣 Commented on #79 in webview/webview_deno
 🎉 Merged PR #6 in denosaurs/plug
 🗣 Commented on #6 in denosaurs/plug
-📦 Released "v0.6.0-pre.0" in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, May 19th 2021, 9:28:52 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, May 19th 2021, 10:23:08 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
