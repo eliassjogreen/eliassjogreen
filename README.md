@@ -24,6 +24,8 @@
 
 ```
 🗣 Commented on #79 in webview/webview_deno
+🗣 Commented on #82 in webview/webview_deno
+🗣 Commented on #79 in webview/webview_deno
 ❗️ Closed issue #81 in webview/webview_deno
 🗣 Commented on #81 in webview/webview_deno
 🗣 Commented on #1 in denosaurs/pane
@@ -31,9 +33,7 @@
 📦 Released "v0.3.1" in denosaurs/plug
 📦 Released "v0.2.12" in denosaurs/cache
 📦 Released "v0.2.0 - deno 1.10.2, winit 0.25.0" in denosaurs/pane
-❗️ Closed issue #80 in webview/webview_deno
-🗣 Commented on #80 in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, May 20th 2021, 7:31:23 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, May 20th 2021, 8:29:10 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
