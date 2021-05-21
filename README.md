@@ -23,17 +23,17 @@
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #84 in webview/webview_deno
+🗣 Commented on #84 in webview/webview_deno
+❗️ Closed issue #83 in webview/webview_deno
+🗣 Commented on #83 in webview/webview_deno
 🗣 Commented on #1 in denosaurs/pane
 🗣 Commented on #2 in denosaurs/pane
 🗣 Commented on #79 in webview/webview_deno
 🗣 Commented on #82 in webview/webview_deno
 🗣 Commented on #79 in webview/webview_deno
 ❗️ Closed issue #81 in webview/webview_deno
-🗣 Commented on #81 in webview/webview_deno
-🗣 Commented on #1 in denosaurs/pane
-📦 Released "v0.2.1" in denosaurs/pane
-📦 Released "v0.3.1" in denosaurs/plug
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, May 20th 2021, 11:22:57 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, May 21st 2021, 1:09:30 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
