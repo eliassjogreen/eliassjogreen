@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #29 in denosaurs/mod.land
+🗣 Commented on #29 in denosaurs/mod.land
 ❌ Closed PR #143 in denosaurs/depsbot
 ❌ Closed PR #142 in denosaurs/depsbot
 ❌ Closed PR #135 in denosaurs/depsbot
@@ -31,9 +33,7 @@
 ❗️ Opened issue #578 in webview/webview
 🗣 Commented on #86 in webview/webview_deno
 ❗️ Closed issue #86 in webview/webview_deno
-❗️ Closed issue #85 in webview/webview_deno
-📦 Released "⚡️ First release" in denosaurs/argontwo
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, June 1st 2021, 3:53:52 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, June 1st 2021, 6:05:07 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
