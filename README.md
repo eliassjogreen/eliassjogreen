@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v2.4.8 - ⚙️ Updated dependencies" in denosaurs/denon
 🍴 Forked eliassjogreen/deno from denoland/deno
 🗣 Commented on #10908 in denoland/deno
 🗣 Commented on #2 in denosaurs/pane
@@ -32,8 +33,7 @@
 🎉 Merged PR #29 in denosaurs/mod.land
 🗣 Commented on #29 in denosaurs/mod.land
 ❌ Closed PR #143 in denosaurs/depsbot
-❌ Closed PR #142 in denosaurs/depsbot
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, June 18th 2021, 6:22:47 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, June 18th 2021, 7:15:53 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
