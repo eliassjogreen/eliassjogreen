@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+❌ Closed PR #1 in eliassjogreen/deno
+💪 Opened PR #1 in eliassjogreen/deno
 🎉 Merged PR #30 in denosaurs/mod.land
 🗣 Commented on #89 in webview/webview_deno
 🗣 Commented on #30 in denosaurs/mod.land
@@ -31,9 +33,7 @@
 🗣 Commented on #11152 in denoland/deno
 🗣 Commented on #11152 in denoland/deno
 🗣 Commented on #11152 in denoland/deno
-💪 Opened PR #11152 in denoland/deno
-🍴 Forked eliassjogreen/packup from kt3k/packup
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, July 3rd 2021, 4:28:35 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, July 3rd 2021, 5:21:37 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
