@@ -23,17 +23,17 @@
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #90 in webview/webview_deno
+🗣 Commented on #90 in webview/webview_deno
+❗️ Closed issue #92 in webview/webview_deno
+🗣 Commented on #92 in webview/webview_deno
+🗣 Commented on #79 in webview/webview_deno
+❗️ Closed issue #87 in webview/webview_deno
+🗣 Commented on #87 in webview/webview_deno
 🎉 Merged PR #31 in denosaurs/mod.land
 🗣 Commented on #11152 in denoland/deno
 🗣 Commented on #11152 in denoland/deno
-🎉 Merged PR #1 in eliassjogreen/deno
-❌ Reopened PR #1 in eliassjogreen/deno
-❌ Closed PR #1 in eliassjogreen/deno
-💪 Opened PR #1 in eliassjogreen/deno
-🎉 Merged PR #30 in denosaurs/mod.land
-🗣 Commented on #89 in webview/webview_deno
-🗣 Commented on #30 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, July 16th 2021, 5:25:21 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, July 16th 2021, 6:23:35 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
