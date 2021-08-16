@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #136 in denosaurs/denon
+❗️ Closed issue #135 in denosaurs/denon
 ❌ Closed PR #1 in eliassjogreen/eliassjogreen
 🗣 Commented on #89 in webview/webview_deno
 💪 Opened PR #11648 in denoland/deno
@@ -31,9 +33,7 @@
 ❗️ Closed issue #8 in denosaurs/wait
 🗣 Commented on #11152 in denoland/deno
 🗣 Commented on #35 in denosaurs/mod.land
-🗣 Commented on #35 in denosaurs/mod.land
-🗣 Commented on #8 in denosaurs/wait
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, August 16th 2021, 12:45:27 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, August 16th 2021, 1:53:34 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
