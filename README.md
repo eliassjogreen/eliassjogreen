@@ -23,17 +23,17 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.1.12 - Deno 1.14 support!" in denosaurs/wait
+🗣 Commented on #10 in denosaurs/wait
+🎉 Merged PR #11 in denosaurs/wait
+💪 Opened PR #11 in denosaurs/wait
+🎉 Merged PR #10 in denosaurs/wait
+🗣 Commented on #10 in denosaurs/wait
 ❗️ Closed issue #5 in denosaurs/pane
 🗣 Commented on #5 in denosaurs/pane
 🎉 Merged PR #36 in denosaurs/mod.land
 ❌ Closed PR #2 in eliassjogreen/deno
-💪 Opened PR #2 in eliassjogreen/deno
-🎉 Merged PR #1 in eliassjogreen/deno
-❌ Reopened PR #1 in eliassjogreen/deno
-❌ Closed PR #1 in eliassjogreen/deno
-💪 Opened PR #1 in eliassjogreen/deno
-🎉 Merged PR #136 in denosaurs/denon
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, September 15th 2021, 12:31:03 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, September 15th 2021, 1:23:55 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
