@@ -23,6 +23,9 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "v0.4.0 - Deno ffi support" in denosaurs/plug
+🎉 Merged PR #7 in denosaurs/plug
+🗣 Commented on #7 in denosaurs/plug
 🎉 Merged PR #24 in denosaurs/bench
 🗣 Commented on #24 in denosaurs/bench
 ❗️ Closed issue #131 in denosaurs/denon
@@ -30,10 +33,7 @@
 🗣 Commented on #137 in denosaurs/denon
 ❗️ Closed issue #137 in denosaurs/denon
 ❗️ Closed issue #139 in denosaurs/denon
-🗣 Commented on #139 in denosaurs/denon
-📦 Released "v2.4.9 - ⚙️ Deno 1.14 support" in denosaurs/denon
-📦 Released "v0.1.12 - Deno 1.14 support!" in denosaurs/wait
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, October 16th 2021, 7:17:34 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, October 16th 2021, 8:21:19 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
