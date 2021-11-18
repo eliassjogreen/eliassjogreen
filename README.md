@@ -23,6 +23,9 @@
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #126 in denosaurs/denon
+📦 Released "v2.4.10 - ⚙️ Deno 1.16 support " in denosaurs/denon
+🎉 Merged PR #147 in denosaurs/denon
 🍴 Forked eliassjogreen/deno from denoland/deno
 🎉 Merged PR #145 in denosaurs/denon
 ❗️ Closed issue #144 in denosaurs/denon
@@ -30,10 +33,7 @@
 🍴 Forked eliassjogreen/imdb-trakt-sync from josh/imdb-trakt-sync
 🗣 Commented on #43 in denoland/serde_v8
 🎉 Merged PR #8 in denosaurs/plug
-🗣 Commented on #43 in denoland/serde_v8
-📦 Released "v0.4.0 - Deno ffi support" in denosaurs/plug
-🎉 Merged PR #7 in denosaurs/plug
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, November 18th 2021, 6:23:19 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 18th 2021, 7:15:25 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
