@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #12828 in denoland/deno
+🗣 Commented on #12824 in denoland/deno
 💪 Opened PR #12828 in denoland/deno
 🎉 Merged PR #149 in denosaurs/denon
 ❗️ Closed issue #126 in denosaurs/denon
@@ -31,9 +33,7 @@
 🍴 Forked eliassjogreen/deno from denoland/deno
 🎉 Merged PR #145 in denosaurs/denon
 ❗️ Closed issue #144 in denosaurs/denon
-🗣 Commented on #145 in denosaurs/denon
-🍴 Forked eliassjogreen/imdb-trakt-sync from josh/imdb-trakt-sync
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, November 21st 2021, 3:19:37 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, November 21st 2021, 4:29:17 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
