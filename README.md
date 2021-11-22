@@ -24,6 +24,7 @@
 
 ```
 🗣 Commented on #12828 in denoland/deno
+🗣 Commented on #12828 in denoland/deno
 🗣 Commented on #12819 in denoland/deno
 🗣 Commented on #12828 in denoland/deno
 🗣 Commented on #12824 in denoland/deno
@@ -32,8 +33,7 @@
 ❗️ Closed issue #126 in denosaurs/denon
 📦 Released "v2.4.10 - ⚙️ Deno 1.16 support " in denosaurs/denon
 🎉 Merged PR #147 in denosaurs/denon
-🍴 Forked eliassjogreen/deno from denoland/deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, November 22nd 2021, 8:20:39 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, November 22nd 2021, 9:16:53 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
