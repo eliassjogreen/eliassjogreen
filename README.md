@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #39 in denosaurs/mod.land
 🎉 Merged PR #7 in denosaurs/crux.land
 🗣 Commented on #7 in denosaurs/crux.land
 💪 Opened PR #2 in denosaurs/deno_python
@@ -32,8 +33,7 @@
 🎉 Merged PR #154 in denosaurs/denon
 🎉 Merged PR #2 in denosaurs/status
 🎉 Merged PR #29 in denosaurs/bench
-🎉 Merged PR #28 in denosaurs/bench
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, January 4th 2022, 5:27:59 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, January 4th 2022, 6:24:25 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
