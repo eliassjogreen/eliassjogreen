@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #99 in webview/webview_deno
 🗣 Commented on #44 in denoland/deno_bindgen
 💪 Opened PR #44 in denoland/deno_bindgen
 🗣 Commented on #1 in denosaurs/pngs
@@ -32,8 +33,7 @@
 💪 Opened PR #9 in denosaurs/crux.land
 🗣 Commented on #1 in denosaurs/pngs
 ❗️ Opened issue #43 in denoland/deno_bindgen
-🍴 Forked eliassjogreen/deno_bindgen from denoland/deno_bindgen
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, January 14th 2022, 2:18:58 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, January 14th 2022, 3:21:34 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
