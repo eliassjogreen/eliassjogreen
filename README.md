@@ -23,6 +23,9 @@
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #9 in denosaurs/plug
+🗣 Commented on #9 in denosaurs/plug
+🗣 Commented on #100 in webview/webview_deno
 🗣 Commented on #99 in webview/webview_deno
 ❗️ Closed issue #12 in webview/webview_deno
 ❗️ Reopened issue #12 in webview/webview_deno
@@ -30,10 +33,7 @@
 🗣 Commented on #65 in webview/webview_deno
 🗣 Commented on #35 in webview/webview_deno
 ❗️ Closed issue #35 in webview/webview_deno
-❗️ Opened issue #13 in denosaurs/plug
-🗣 Commented on #64 in webview/webview_deno
-🗣 Commented on #578 in webview/webview
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, January 27th 2022, 10:22:02 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, January 27th 2022, 11:15:14 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
