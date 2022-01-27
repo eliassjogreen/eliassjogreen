@@ -23,17 +23,17 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #99 in webview/webview_deno
+❗️ Closed issue #12 in webview/webview_deno
+❗️ Reopened issue #12 in webview/webview_deno
+❗️ Closed issue #65 in webview/webview_deno
+🗣 Commented on #65 in webview/webview_deno
+🗣 Commented on #35 in webview/webview_deno
+❗️ Closed issue #35 in webview/webview_deno
+❗️ Opened issue #13 in denosaurs/plug
+🗣 Commented on #64 in webview/webview_deno
 🗣 Commented on #578 in webview/webview
-🗣 Commented on #652 in webview/webview
-🗣 Commented on #652 in webview/webview
-❗️ Closed issue #77 in webview/webview_deno
-🗣 Commented on #77 in webview/webview_deno
-🎉 Merged PR #99 in webview/webview_deno
-❗️ Closed issue #79 in webview/webview_deno
-❗️ Closed issue #89 in webview/webview_deno
-❗️ Closed issue #76 in webview/webview_deno
-❗️ Closed issue #94 in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, January 27th 2022, 2:31:19 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, January 27th 2022, 3:19:13 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
