@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.0.1-pre.0 - Claiming the registry entry, and easier importing" in denosaurs/neo
 🎉 Merged PR #1 in eliassjogreen/pioneer
 💪 Opened PR #1 in eliassjogreen/pioneer
 🗣 Commented on #100 in webview/webview_deno
@@ -32,8 +33,7 @@
 🗣 Commented on #100 in webview/webview_deno
 🗣 Commented on #99 in webview/webview_deno
 ❗️ Closed issue #12 in webview/webview_deno
-❗️ Reopened issue #12 in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, February 3rd 2022, 12:30:50 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, February 3rd 2022, 1:34:12 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
