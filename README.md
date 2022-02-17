@@ -23,6 +23,9 @@
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #100 in webview/webview_deno
+🗣 Commented on #100 in webview/webview_deno
+🎉 Merged PR #103 in webview/webview_deno
 📦 Released "0.1.12" in denosaurs/gmath
 🎉 Merged PR #102 in webview/webview_deno
 🎉 Merged PR #6 in denosaurs/neo
@@ -30,10 +33,7 @@
 🎉 Merged PR #5 in denosaurs/neo
 💪 Opened PR #5 in denosaurs/neo
 🎉 Merged PR #4 in denosaurs/neo
-🗣 Commented on #101 in webview/webview_deno
-❗️ Closed issue #156 in denosaurs/denon
-📦 Released "v2.5.0 - deno - 1.18 support" in denosaurs/denon
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, February 17th 2022, 10:25:24 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, February 17th 2022, 11:16:32 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
