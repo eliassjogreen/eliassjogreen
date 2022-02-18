@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #48 in denosaurs/mod.land
 🗣 Commented on #64 in webview/webview_rust
 🗣 Commented on #64 in webview/webview_rust
 💪 Opened PR #64 in webview/webview_rust
@@ -32,8 +33,7 @@
 🎉 Merged PR #103 in webview/webview_deno
 📦 Released "0.1.12" in denosaurs/gmath
 🎉 Merged PR #102 in webview/webview_deno
-🎉 Merged PR #6 in denosaurs/neo
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, February 18th 2022, 9:16:49 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, February 18th 2022, 10:19:45 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
