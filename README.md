@@ -23,6 +23,9 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #20 in whistle-lang/whistle
+💪 Opened PR #20 in whistle-lang/whistle
+🎉 Merged PR #9 in whistle-lang/whistle
 ❗️ Opened issue #19 in whistle-lang/whistle
 ❗️ Opened issue #18 in whistle-lang/whistle
 ❗️ Opened issue #17 in whistle-lang/whistle
@@ -30,10 +33,7 @@
 ❗️ Opened issue #15 in whistle-lang/whistle
 ❗️ Opened issue #14 in whistle-lang/whistle
 ❗️ Opened issue #13 in whistle-lang/whistle
-❗️ Opened issue #12 in whistle-lang/whistle
-❗️ Opened issue #11 in whistle-lang/whistle
-❗️ Opened issue #10 in whistle-lang/whistle
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, March 19th 2022, 3:20:21 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, March 19th 2022, 4:27:33 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
