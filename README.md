@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.1.1" in denosaurs/argontwo
 🎉 Merged PR #59 in denosaurs/mod.land
 💪 Opened PR #59 in denosaurs/mod.land
 ❗️ Closed issue #3 in whistle-lang/website
@@ -32,8 +33,7 @@
 ❗️ Opened issue #2 in whistle-lang/website
 ❗️ Opened issue #1 in whistle-lang/website
 🎉 Merged PR #20 in whistle-lang/whistle
-💪 Opened PR #20 in whistle-lang/whistle
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, March 20th 2022, 11:19:10 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, March 21st 2022, 1:26:34 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
