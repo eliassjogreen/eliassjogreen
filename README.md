@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+💪 Opened PR #6 in whistle-lang/website
 💪 Opened PR #5 in whistle-lang/website
 🗣 Commented on #63 in webview/webview_rust
 📦 Released "0.1.1" in denosaurs/argontwo
@@ -32,8 +33,7 @@
 🎉 Merged PR #4 in whistle-lang/website
 💪 Opened PR #4 in whistle-lang/website
 ❗️ Opened issue #3 in whistle-lang/website
-❗️ Opened issue #2 in whistle-lang/website
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, March 24th 2022, 11:20:23 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, March 25th 2022, 1:26:52 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
