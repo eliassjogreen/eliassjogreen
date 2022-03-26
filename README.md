@@ -18,11 +18,12 @@
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 970 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
-| 📦 | 969 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
+| 📦 | 970 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #109 in webview/webview_deno
 💪 Opened PR #6 in whistle-lang/website
 💪 Opened PR #5 in whistle-lang/website
 🗣 Commented on #63 in webview/webview_rust
@@ -32,8 +33,7 @@
 ❗️ Closed issue #3 in whistle-lang/website
 🎉 Merged PR #4 in whistle-lang/website
 💪 Opened PR #4 in whistle-lang/website
-❗️ Opened issue #3 in whistle-lang/website
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, March 26th 2022, 3:20:28 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, March 26th 2022, 4:27:17 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
