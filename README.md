@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+❌ Closed PR #69 in denosaurs/mod.land
 💪 Opened PR #150 in lucacasonato/fresh
 🍴 Forked eliassjogreen/fresh from lucacasonato/fresh
 🗣 Commented on #64 in denosaurs/mod.land
@@ -32,8 +33,7 @@
 🎉 Merged PR #62 in denosaurs/mod.land
 🎉 Merged PR #61 in denosaurs/mod.land
 🗣 Commented on #62 in denosaurs/mod.land
-🎉 Merged PR #63 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, April 13th 2022, 5:23:07 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, April 13th 2022, 6:25:14 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
