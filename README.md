@@ -23,6 +23,9 @@
 ### 🗣 My activity:
 
 ```
+❌ Closed PR #2 in denosaurs/tokenizer
+🗣 Commented on #2 in denosaurs/tokenizer
+🗣 Commented on #2 in denosaurs/tokenizer
 🎉 Merged PR #1 in denosaurs/tokenizer
 🗣 Commented on #2 in denosaurs/pngs
 ❗️ Closed issue #2 in denosaurs/pngs
@@ -30,10 +33,7 @@
 ❌ Closed PR #70 in denosaurs/mod.land
 ❌ Closed PR #74 in denosaurs/mod.land
 ❌ Closed PR #71 in denosaurs/mod.land
-❌ Closed PR #67 in denosaurs/mod.land
-❌ Closed PR #65 in denosaurs/mod.land
-🗣 Commented on #75 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, May 1st 2022, 8:25:10 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, May 1st 2022, 9:20:21 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
