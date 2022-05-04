@@ -17,12 +17,14 @@
 #### Top
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 996 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
+| 📦 | 997 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 | 📦 | 983 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #22 in whistle-lang/whistle
+🗣 Commented on #22 in whistle-lang/whistle
 ❌ Closed PR #2 in denosaurs/tokenizer
 🗣 Commented on #2 in denosaurs/tokenizer
 🗣 Commented on #2 in denosaurs/tokenizer
@@ -31,9 +33,7 @@
 ❗️ Closed issue #2 in denosaurs/pngs
 🗣 Commented on #2 in denosaurs/pngs
 ❌ Closed PR #70 in denosaurs/mod.land
-❌ Closed PR #74 in denosaurs/mod.land
-❌ Closed PR #71 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, May 4th 2022, 6:28:04 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, May 4th 2022, 7:20:27 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
