@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #52 in denosaurs/mod.land
+❗️ Closed issue #52 in denosaurs/mod.land
 ❌ Closed PR #75 in denosaurs/mod.land
 🍴 Forked eliassjogreen/dotland from denoland/dotland
 ❗️ Closed issue #22 in whistle-lang/whistle
@@ -31,9 +33,7 @@
 🗣 Commented on #2 in denosaurs/tokenizer
 🗣 Commented on #2 in denosaurs/tokenizer
 🎉 Merged PR #1 in denosaurs/tokenizer
-🗣 Commented on #2 in denosaurs/pngs
-❗️ Closed issue #2 in denosaurs/pngs
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, May 6th 2022, 5:26:47 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, May 6th 2022, 6:26:14 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
