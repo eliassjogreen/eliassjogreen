@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #8 in denosaurs/neo
+💪 Opened PR #8 in denosaurs/neo
 🗣 Commented on #52 in denosaurs/mod.land
 ❗️ Closed issue #52 in denosaurs/mod.land
 ❌ Closed PR #75 in denosaurs/mod.land
@@ -31,9 +33,7 @@
 🗣 Commented on #22 in whistle-lang/whistle
 ❌ Closed PR #2 in denosaurs/tokenizer
 🗣 Commented on #2 in denosaurs/tokenizer
-🗣 Commented on #2 in denosaurs/tokenizer
-🎉 Merged PR #1 in denosaurs/tokenizer
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, May 7th 2022, 5:21:40 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, May 7th 2022, 6:24:42 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
