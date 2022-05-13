@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+❌ Closed PR #735 in webview/webview
 💪 Opened PR #735 in webview/webview
 🍴 Forked eliassjogreen/webview from webview/webview
 💪 Opened PR #14523 in denoland/deno
@@ -32,8 +33,7 @@
 ❗️ Closed issue #52 in denosaurs/mod.land
 ❌ Closed PR #75 in denosaurs/mod.land
 🍴 Forked eliassjogreen/dotland from denoland/dotland
-❗️ Closed issue #22 in whistle-lang/whistle
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, May 13th 2022, 8:28:50 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, May 13th 2022, 9:27:22 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
