@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #1 in denosaurs/emoji
 🍴 Forked eliassjogreen/preact-leaflet from ChristopherHButler/preact-leaflet
 ❌ Closed PR #83 in denosaurs/mod.land
 💪 Opened PR #14 in denosaurs/neo
@@ -32,8 +33,7 @@
 ❗️ Opened issue #12 in denosaurs/neo
 ❗️ Opened issue #11 in denosaurs/neo
 ❗️ Opened issue #10 in denosaurs/neo
-❗️ Opened issue #9 in denosaurs/neo
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, June 3rd 2022, 8:21:22 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, June 3rd 2022, 9:17:16 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
