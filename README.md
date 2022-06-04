@@ -23,6 +23,9 @@
 ### 🗣 My activity:
 
 ```
+❌ Closed PR #76 in denosaurs/mod.land
+🎉 Merged PR #89 in denosaurs/mod.land
+🗣 Commented on #90 in denosaurs/mod.land
 ❗️ Opened issue #17 in denosaurs/neo
 ❗️ Opened issue #16 in denosaurs/neo
 ❗️ Opened issue #15 in denosaurs/neo
@@ -30,10 +33,7 @@
 🎉 Merged PR #86 in denosaurs/mod.land
 🎉 Merged PR #88 in denosaurs/mod.land
 🎉 Merged PR #87 in denosaurs/mod.land
-🗣 Commented on #1 in denosaurs/emoji
-🍴 Forked eliassjogreen/preact-leaflet from ChristopherHButler/preact-leaflet
-❌ Closed PR #83 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, June 4th 2022, 9:19:12 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, June 4th 2022, 10:20:47 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
