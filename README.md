@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #94 in denosaurs/mod.land
+🎉 Merged PR #95 in denosaurs/mod.land
 ❌ Closed PR #76 in denosaurs/mod.land
 🎉 Merged PR #89 in denosaurs/mod.land
 🗣 Commented on #90 in denosaurs/mod.land
@@ -31,9 +33,7 @@
 ❗️ Opened issue #15 in denosaurs/neo
 🎉 Merged PR #1 in denosaurs/wasabi
 🎉 Merged PR #86 in denosaurs/mod.land
-🎉 Merged PR #88 in denosaurs/mod.land
-🎉 Merged PR #87 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, June 6th 2022, 9:17:32 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, June 6th 2022, 10:21:44 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
