@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+🍴 Forked eliassjogreen/DefinitelyTyped from DefinitelyTyped/DefinitelyTyped
 📦 Released "0.5.2 - Multi-arch support" in denosaurs/plug
 ❗️ Closed issue #13 in denosaurs/plug
 🎉 Merged PR #14 in denosaurs/plug
@@ -32,8 +33,7 @@
 ❗️ Opened issue #22 in denosaurs/neo
 ❗️ Opened issue #21 in denosaurs/neo
 ❗️ Opened issue #20 in denosaurs/neo
-❗️ Opened issue #19 in denosaurs/neo
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, June 13th 2022, 8:27:18 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, June 13th 2022, 9:21:48 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
