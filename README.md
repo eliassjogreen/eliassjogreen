@@ -23,6 +23,9 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.5.2 - Multi-arch support" in denosaurs/plug
+❗️ Closed issue #13 in denosaurs/plug
+🎉 Merged PR #14 in denosaurs/plug
 💪 Opened PR #112 in webview/webview_deno
 ❗️ Opened issue #24 in denosaurs/neo
 ❗️ Opened issue #23 in denosaurs/neo
@@ -30,10 +33,7 @@
 ❗️ Opened issue #21 in denosaurs/neo
 ❗️ Opened issue #20 in denosaurs/neo
 ❗️ Opened issue #19 in denosaurs/neo
-❗️ Opened issue #18 in denosaurs/neo
-🎉 Merged PR #96 in denosaurs/mod.land
-🎉 Merged PR #94 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, June 13th 2022, 6:27:52 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, June 13th 2022, 7:20:23 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
