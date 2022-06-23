@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+❌ Closed PR #103 in denosaurs/mod.land
 🗣 Commented on #60892 in DefinitelyTyped/DefinitelyTyped
 💪 Opened PR #60892 in DefinitelyTyped/DefinitelyTyped
 🗣 Commented on #2 in SeparateRecords/deno_mock_fetch
@@ -32,8 +33,7 @@
 🗣 Commented on #81 in 5monkeys/django-bananas.js
 🗣 Commented on #60784 in DefinitelyTyped/DefinitelyTyped
 💪 Opened PR #84 in 5monkeys/django-bananas.js
-🍴 Forked eliassjogreen/django-bananas.js from 5monkeys/django-bananas.js
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, June 23rd 2022, 9:18:15 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, June 23rd 2022, 10:20:23 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
