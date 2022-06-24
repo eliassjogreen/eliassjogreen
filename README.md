@@ -17,12 +17,14 @@
 #### Top
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 1028 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
+| 📦 | 1029 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 | 📦 | 1007 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 
 ### 🗣 My activity:
 
 ```
+📦 Released "0.2.1" in denosaurs/emoji
+🎉 Merged PR #4 in denosaurs/emoji
 ❌ Closed PR #103 in denosaurs/mod.land
 🗣 Commented on #60892 in DefinitelyTyped/DefinitelyTyped
 💪 Opened PR #60892 in DefinitelyTyped/DefinitelyTyped
@@ -31,9 +33,7 @@
 🍴 Forked eliassjogreen/django-ninja-extra from eadwinCode/django-ninja-extra
 🗣 Commented on #84 in 5monkeys/django-bananas.js
 🗣 Commented on #81 in 5monkeys/django-bananas.js
-🗣 Commented on #60784 in DefinitelyTyped/DefinitelyTyped
-💪 Opened PR #84 in 5monkeys/django-bananas.js
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, June 24th 2022, 6:27:28 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, June 24th 2022, 7:16:34 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
