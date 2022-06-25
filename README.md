@@ -23,17 +23,17 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #120 in webview/webview_deno
+🎉 Merged PR #121 in webview/webview_deno
+🎉 Merged PR #119 in webview/webview_deno
+💪 Opened PR #121 in webview/webview_deno
+💪 Opened PR #120 in webview/webview_deno
+💪 Opened PR #119 in webview/webview_deno
 🎉 Merged PR #118 in webview/webview_deno
 🗣 Commented on #118 in webview/webview_deno
 🎉 Merged PR #117 in webview/webview_deno
 📦 Released "0.7.2 - 🐧 Fixed Linux support and building" in webview/webview_deno
-📦 Released "0.7.1 - 🛠️ Fix linux support and compilation" in webview/webview_deno
-🗣 Commented on #116 in webview/webview_deno
-🗣 Commented on #116 in webview/webview_deno
-❗️ Closed issue #114 in webview/webview_deno
-🎉 Merged PR #116 in webview/webview_deno
-🗣 Commented on #116 in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, June 25th 2022, 12:33:58 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, June 25th 2022, 1:26:36 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
