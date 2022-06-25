@@ -23,17 +23,17 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #116 in webview/webview_deno
+🗣 Commented on #116 in webview/webview_deno
+❗️ Closed issue #114 in webview/webview_deno
+🎉 Merged PR #116 in webview/webview_deno
+🗣 Commented on #116 in webview/webview_deno
+❗️ Closed issue #115 in webview/webview_deno
+🗣 Commented on #115 in webview/webview_deno
+🗣 Commented on #116 in webview/webview_deno
 🗣 Commented on #64 in webview/webview_deno
 📦 Released "0.7.0 - 🤓 Total re-write using deno ffi" in webview/webview_deno
-❗️ Closed issue #578 in webview/webview
-🗣 Commented on #578 in webview/webview
-❌ Closed PR #65 in webview/webview_rust
-🗣 Commented on #65 in webview/webview_rust
-❌ Closed PR #111 in webview/webview_deno
-🗣 Commented on #111 in webview/webview_deno
-❌ Closed PR #735 in webview/webview
-🗣 Commented on #735 in webview/webview
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, June 25th 2022, 8:24:53 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, June 25th 2022, 9:18:46 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
