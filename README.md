@@ -23,6 +23,7 @@
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #126 in webview/webview_deno
 ❗️ Opened issue #125 in webview/webview_deno
 ❗️ Closed issue #110 in webview/webview_deno
 🗣 Commented on #110 in webview/webview_deno
@@ -32,8 +33,7 @@
 ❗️ Closed issue #64 in webview/webview_deno
 💪 Opened PR #123 in webview/webview_deno
 🗣 Commented on #122 in webview/webview_deno
-❌ Closed PR #122 in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, June 26th 2022, 12:35:15 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, June 26th 2022, 1:27:06 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
