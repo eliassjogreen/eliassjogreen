@@ -23,6 +23,8 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #129 in webview/webview_deno
+💪 Opened PR #129 in webview/webview_deno
 🎉 Merged PR #127 in webview/webview_deno
 💪 Opened PR #127 in webview/webview_deno
 ❗️ Closed issue #126 in webview/webview_deno
@@ -31,9 +33,7 @@
 🗣 Commented on #110 in webview/webview_deno
 📦 Released "0.7.3 - 🍎 Apple M1 support!" in webview/webview_deno
 ❗️ Opened issue #124 in webview/webview_deno
-🎉 Merged PR #123 in webview/webview_deno
-❗️ Closed issue #64 in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, June 28th 2022, 5:27:38 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, June 28th 2022, 6:30:12 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
