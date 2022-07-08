@@ -17,7 +17,7 @@
 #### Top
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 15306 | [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. |
+| 📦 | 15400 | [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. |
 | 📦 | 1057 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 
 ### 🗣 My activity:
@@ -36,4 +36,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, July 8th 2022, 10:24:30 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, July 8th 2022, 11:18:11 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
