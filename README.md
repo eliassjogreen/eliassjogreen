@@ -17,12 +17,13 @@
 #### Top
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 15627 | [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. |
+| 📦 | 15782 | [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. |
 | 📦 | 1057 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #5 in denosaurs/emoji
 🗣 Commented on #131 in webview/webview_deno
 🎉 Merged PR #38 in denosaurs/bench
 🎉 Merged PR #39 in denosaurs/bench
@@ -32,8 +33,7 @@
 🎉 Merged PR #35 in denosaurs/bench
 💪 Opened PR #35 in denosaurs/bench
 🎉 Merged PR #34 in denosaurs/bench
-🗣 Commented on #131 in webview/webview_deno
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, July 8th 2022, 12:42:59 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, July 8th 2022, 1:38:34 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
