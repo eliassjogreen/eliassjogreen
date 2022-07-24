@@ -17,7 +17,7 @@
 #### Top
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 28340 | [oven-sh/bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. |
+| 📦 | 28344 | [oven-sh/bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. |
 | 📦 | 1080 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 | 📦 | 1024 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 | 📦 | 20 | [eliassjogreen/Reddit-Bot-List](https://github.com/eliassjogreen/Reddit-Bot-List) | ⚡️🤖 A list of Reddit bots |
@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #110 in denosaurs/mod.land
+🗣 Commented on #133 in webview/webview_deno
 📦 Released "2.0.1" in denosaurs/event
 ❗️ Closed issue #44 in denosaurs/bench
 🎉 Merged PR #45 in denosaurs/bench
@@ -33,9 +35,7 @@
 🎉 Merged PR #42 in denosaurs/bench
 ❗️ Closed issue #41 in denosaurs/bench
 💪 Opened PR #42 in denosaurs/bench
-🗣 Commented on #41 in denosaurs/bench
-💪 Opened PR #40 in denosaurs/bench
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, July 24th 2022, 9:20:14 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, July 24th 2022, 10:22:57 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
