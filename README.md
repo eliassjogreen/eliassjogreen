@@ -25,6 +25,9 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.0.1-pre.1 - 📊 2nd pre-release with lots of new stuff" in denosaurs/neo
+❗️ Closed issue #25 in denosaurs/neo
+🎉 Merged PR #26 in denosaurs/neo
 🎉 Merged PR #14 in denosaurs/neo
 🗣 Commented on #25 in denosaurs/neo
 🗣 Commented on #110 in denosaurs/mod.land
@@ -32,10 +35,7 @@
 📦 Released "2.0.1" in denosaurs/event
 ❗️ Closed issue #44 in denosaurs/bench
 🎉 Merged PR #45 in denosaurs/bench
-🗣 Commented on #42 in denosaurs/bench
-💪 Opened PR #43 in denosaurs/bench
-🎉 Merged PR #42 in denosaurs/bench
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, August 20th 2022, 11:17:43 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, August 20th 2022, 12:36:50 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
