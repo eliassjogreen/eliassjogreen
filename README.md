@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.0.13 - crux.land/router is now called `rutt`!" in denosaurs/rutt
 💪 Opened PR #27 in denosaurs/neo
 🗣 Commented on #25 in denosaurs/neo
 📦 Released "0.0.1-pre.1 - 📊 2nd pre-release with lots of new stuff" in denosaurs/neo
@@ -34,8 +35,7 @@
 🗣 Commented on #25 in denosaurs/neo
 🗣 Commented on #110 in denosaurs/mod.land
 🗣 Commented on #133 in webview/webview_deno
-📦 Released "2.0.1" in denosaurs/event
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, August 23rd 2022, 4:29:50 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, August 23rd 2022, 5:23:26 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
