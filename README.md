@@ -25,17 +25,17 @@
 ### 🗣 My activity:
 
 ```
+❌ Closed PR #101 in denosaurs/mod.land
+❌ Closed PR #104 in denosaurs/mod.land
+❌ Closed PR #108 in denosaurs/mod.land
+❌ Closed PR #114 in denosaurs/mod.land
+❌ Closed PR #115 in denosaurs/mod.land
+❌ Reopened PR #115 in denosaurs/mod.land
+🗣 Commented on #115 in denosaurs/mod.land
+❌ Closed PR #115 in denosaurs/mod.land
+❌ Closed PR #102 in denosaurs/mod.land
 💪 Opened PR #647 in denoland/fresh
-📦 Released "0.0.13 - crux.land/router is now called `rutt`!" in denosaurs/rutt
-💪 Opened PR #27 in denosaurs/neo
-🗣 Commented on #25 in denosaurs/neo
-📦 Released "0.0.1-pre.1 - 📊 2nd pre-release with lots of new stuff" in denosaurs/neo
-❗️ Closed issue #25 in denosaurs/neo
-🎉 Merged PR #26 in denosaurs/neo
-🎉 Merged PR #14 in denosaurs/neo
-🗣 Commented on #25 in denosaurs/neo
-🗣 Commented on #110 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, August 26th 2022, 4:30:56 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, August 26th 2022, 5:23:51 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
