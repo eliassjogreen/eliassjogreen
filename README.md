@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #138 in webview/webview_deno
 🎉 Merged PR #136 in webview/webview_deno
 🗣 Commented on #137 in webview/webview_deno
 ❗️ Closed issue #134 in webview/webview_deno
@@ -34,8 +35,7 @@
 ❌ Closed PR #108 in denosaurs/mod.land
 ❌ Closed PR #114 in denosaurs/mod.land
 ❌ Closed PR #115 in denosaurs/mod.land
-❌ Reopened PR #115 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, August 28th 2022, 11:17:15 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, August 28th 2022, 12:37:22 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
