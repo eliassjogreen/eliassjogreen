@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+💪 Opened PR #683 in denoland/fresh
+🍴 Forked eliassjogreen/fresh from denoland/fresh
 🗣 Commented on #15700 in denoland/deno
 📦 Released "0.7.4" in webview/webview_deno
 🎉 Merged PR #139 in webview/webview_deno
@@ -33,9 +35,7 @@
 🎉 Merged PR #136 in webview/webview_deno
 🗣 Commented on #137 in webview/webview_deno
 ❗️ Closed issue #134 in webview/webview_deno
-🎉 Merged PR #135 in webview/webview_deno
-❌ Closed PR #101 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, August 31st 2022, 4:31:18 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, August 31st 2022, 5:24:55 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
