@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #24 in whistle-lang/whistle
 ❌ Closed PR #118 in denosaurs/mod.land
 🗣 Commented on #118 in denosaurs/mod.land
 ❌ Closed PR #120 in denosaurs/mod.land
@@ -34,8 +35,7 @@
 ❗️ Closed issue #2 in denosaurs/argontwo
 🗣 Commented on #2 in denosaurs/argontwo
 🎉 Merged PR #48 in denosaurs/bench
-🎉 Merged PR #27 in denosaurs/neo
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, September 24th 2022, 10:25:11 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, September 24th 2022, 11:19:44 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
