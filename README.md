@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.7.5 - deno 1.25.0 support!" in webview/webview_deno
+📦 Released "0.7.5 - deno 1.25.0 support!" in webview/webview_deno
 💪 Opened PR #15 in denosaurs/plug
 🎉 Merged PR #24 in whistle-lang/whistle
 ❌ Closed PR #118 in denosaurs/mod.land
@@ -33,9 +35,7 @@
 🗣 Commented on #120 in denosaurs/mod.land
 💪 Opened PR #86 in 5monkeys/django-bananas.js
 🗣 Commented on #2 in denosaurs/argontwo
-❗️ Closed issue #2 in denosaurs/argontwo
-🗣 Commented on #2 in denosaurs/argontwo
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, September 27th 2022, 1:59:05 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, September 27th 2022, 2:37:51 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
