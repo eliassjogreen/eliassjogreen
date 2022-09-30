@@ -17,7 +17,7 @@
 #### Top
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 1133 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
+| 📦 | 1134 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 | 📦 | 1035 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 | 📦 | 21 | [eliassjogreen/Reddit-Bot-List](https://github.com/eliassjogreen/Reddit-Bot-List) | ⚡️🤖 A list of Reddit bots |
 | 📦 | 15 | [denosaurs/parry](https://github.com/denosaurs/parry) | 👷🏽‍♂️ Run deno functions in WebWorkers |
@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #15 in denosaurs/plug
 📦 Released "0.7.5 - deno 1.25.0 support!" in webview/webview_deno
 📦 Released "0.7.5 - deno 1.25.0 support!" in webview/webview_deno
 💪 Opened PR #15 in denosaurs/plug
@@ -34,8 +35,7 @@
 ❌ Closed PR #120 in denosaurs/mod.land
 🗣 Commented on #120 in denosaurs/mod.land
 💪 Opened PR #86 in 5monkeys/django-bananas.js
-🗣 Commented on #2 in denosaurs/argontwo
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, September 29th 2022, 11:33:29 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, September 30th 2022, 2:49:46 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
