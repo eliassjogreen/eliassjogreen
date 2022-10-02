@@ -25,17 +25,17 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #90 in webview/webview_deno
+❗️ Reopened issue #90 in webview/webview_deno
+❗️ Closed issue #141 in webview/webview_deno
+🗣 Commented on #141 in webview/webview_deno
+❗️ Opened issue #143 in webview/webview_deno
 🗣 Commented on #50 in denosaurs/bench
 📦 Released "1.0.0-rc.3 - fix remote url options and bad resource id caused by streaming by " in denosaurs/plug
 🎉 Merged PR #19 in denosaurs/plug
 💪 Opened PR #19 in denosaurs/plug
 💪 Opened PR #142 in webview/webview_deno
-🎉 Merged PR #18 in denosaurs/plug
-💪 Opened PR #18 in denosaurs/plug
-❌ Closed PR #17 in denosaurs/plug
-💪 Opened PR #17 in denosaurs/plug
-📦 Released "1.0.0-rc.1 - ensure full cache path exists" in denosaurs/plug
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, October 2nd 2022, 12:46:22 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, October 2nd 2022, 1:41:07 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
