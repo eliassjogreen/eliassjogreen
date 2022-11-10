@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.0.14" in denosaurs/rutt
 🍴 Forked eliassjogreen/deno_x11 from deno-windowing/deno_x11
 ❌ Closed PR #86 in 5monkeys/django-bananas.js
 🎉 Merged PR #126 in denosaurs/mod.land
@@ -34,8 +35,7 @@
 🗣 Commented on #476 in edgedb/edgedb-js
 ❗️ Closed issue #7 in denosaurs/pane
 🗣 Commented on #7 in denosaurs/pane
-📦 Released "0.1.7 - Update deno.land webhook" in denosaurs/deno_brotli
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, November 10th 2022, 11:19:22 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, November 10th 2022, 12:51:26 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
