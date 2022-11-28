@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+❌ Closed PR #123 in denosaurs/mod.land
+❌ Closed PR #129 in denosaurs/mod.land
 💪 Opened PR #3 in denosaurs/byte_type
 ❌ Closed PR #128 in denosaurs/mod.land
 ❗️ Opened issue #16626 in denoland/deno
@@ -33,9 +35,7 @@
 🎉 Merged PR #52 in denosaurs/bench
 🗣 Commented on #52 in denosaurs/bench
 📦 Released "0.0.14" in denosaurs/rutt
-🍴 Forked eliassjogreen/deno_x11 from deno-windowing/deno_x11
-❌ Closed PR #86 in 5monkeys/django-bananas.js
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, November 28th 2022, 8:26:00 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, November 28th 2022, 9:19:27 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
