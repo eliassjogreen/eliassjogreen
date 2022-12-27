@@ -25,6 +25,9 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #1 in denosaurs/tty
+🎉 Merged PR #14 in denosaurs/wait
+🎉 Merged PR #6 in denosaurs/emoji
 🗣 Commented on #150 in webview/webview_deno
 🎉 Merged PR #2 in denosaurs/rutt
 💪 Opened PR #2 in denosaurs/rutt
@@ -32,10 +35,7 @@
 🎉 Merged PR #61 in denosaurs/bench
 💪 Opened PR #61 in denosaurs/bench
 ❗️ Closed issue #51 in denosaurs/bench
-❗️ Closed issue #58 in denosaurs/bench
-❗️ Closed issue #55 in denosaurs/bench
-🎉 Merged PR #60 in denosaurs/bench
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, December 27th 2022, 7:15:33 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, December 27th 2022, 8:22:19 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
