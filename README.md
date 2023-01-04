@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+💪 Opened PR #36 in lenkan/deno-amqp
+🍴 Forked eliassjogreen/deno-amqp from lenkan/deno-amqp
 ❌ Closed PR #131 in denosaurs/mod.land
 🎉 Merged PR #1 in denosaurs/tty
 🎉 Merged PR #14 in denosaurs/wait
@@ -33,9 +35,7 @@
 🎉 Merged PR #2 in denosaurs/rutt
 💪 Opened PR #2 in denosaurs/rutt
 🗣 Commented on #31 in whistle-lang/whistle
-🎉 Merged PR #61 in denosaurs/bench
-💪 Opened PR #61 in denosaurs/bench
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, January 4th 2023, 6:22:46 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, January 4th 2023, 7:16:48 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
