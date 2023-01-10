@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.0.1-pre.0 - An initial pre-release to claim the registry entry and easier import the project" in denosaurs/mess
 🎉 Merged PR #4 in denosaurs/status
 🗣 Commented on #7 in whistle-lang/website
 💪 Opened PR #36 in lenkan/deno-amqp
@@ -34,8 +35,7 @@
 🎉 Merged PR #14 in denosaurs/wait
 🎉 Merged PR #6 in denosaurs/emoji
 🗣 Commented on #150 in webview/webview_deno
-🎉 Merged PR #2 in denosaurs/rutt
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, January 10th 2023, 10:19:55 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, January 10th 2023, 11:15:34 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
