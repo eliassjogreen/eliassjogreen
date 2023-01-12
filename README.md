@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #3 in denosaurs/byte_type
 🎉 Merged PR #4 in denosaurs/byte_type
 📦 Released "0.0.1-pre.0 - An initial pre-release to claim the registry entry and easier import the project" in denosaurs/mess
 🎉 Merged PR #4 in denosaurs/status
@@ -34,8 +35,7 @@
 ❌ Closed PR #131 in denosaurs/mod.land
 🎉 Merged PR #1 in denosaurs/tty
 🎉 Merged PR #14 in denosaurs/wait
-🎉 Merged PR #6 in denosaurs/emoji
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, January 12th 2023, 1:32:34 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, January 12th 2023, 2:23:44 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
