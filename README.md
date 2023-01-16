@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #62 in denosaurs/bench
 🎉 Merged PR #3 in denosaurs/byte_type
 🎉 Merged PR #4 in denosaurs/byte_type
 📦 Released "0.0.1-pre.0 - An initial pre-release to claim the registry entry and easier import the project" in denosaurs/mess
@@ -34,8 +35,7 @@
 🍴 Forked eliassjogreen/deno-amqp from lenkan/deno-amqp
 ❌ Closed PR #131 in denosaurs/mod.land
 🎉 Merged PR #1 in denosaurs/tty
-🎉 Merged PR #14 in denosaurs/wait
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, January 16th 2023, 8:23:29 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, January 16th 2023, 9:18:08 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
