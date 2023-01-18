@@ -25,6 +25,9 @@
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #20 in denosaurs/plug
+🎉 Merged PR #22 in denosaurs/plug
+💪 Opened PR #22 in denosaurs/plug
 🗣 Commented on #20 in denosaurs/plug
 🎉 Merged PR #62 in denosaurs/bench
 🎉 Merged PR #3 in denosaurs/byte_type
@@ -32,10 +35,7 @@
 📦 Released "0.0.1-pre.0 - An initial pre-release to claim the registry entry and easier import the project" in denosaurs/mess
 🎉 Merged PR #4 in denosaurs/status
 🗣 Commented on #7 in whistle-lang/website
-💪 Opened PR #36 in lenkan/deno-amqp
-🍴 Forked eliassjogreen/deno-amqp from lenkan/deno-amqp
-❌ Closed PR #131 in denosaurs/mod.land
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, January 18th 2023, 6:21:43 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, January 18th 2023, 7:14:26 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
