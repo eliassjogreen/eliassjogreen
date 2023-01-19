@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "1.0.0 - 🎉 First stable major release! 🎉" in denosaurs/plug
+🗣 Commented on #3 in denosaurs/rutt
 ❗️ Closed issue #20 in denosaurs/plug
 🎉 Merged PR #22 in denosaurs/plug
 💪 Opened PR #22 in denosaurs/plug
@@ -33,9 +35,7 @@
 🎉 Merged PR #3 in denosaurs/byte_type
 🎉 Merged PR #4 in denosaurs/byte_type
 📦 Released "0.0.1-pre.0 - An initial pre-release to claim the registry entry and easier import the project" in denosaurs/mess
-🎉 Merged PR #4 in denosaurs/status
-🗣 Commented on #7 in whistle-lang/website
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, January 18th 2023, 11:18:11 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, January 19th 2023, 2:47:42 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
