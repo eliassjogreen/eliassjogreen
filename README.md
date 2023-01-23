@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #5 in denosaurs/rutt
 ❗️ Opened issue #4 in denosaurs/rutt
 🎉 Merged PR #3 in denosaurs/rutt
 📦 Released "1.0.0 - 🎉 First stable major release! 🎉" in denosaurs/plug
@@ -34,8 +35,7 @@
 💪 Opened PR #22 in denosaurs/plug
 🗣 Commented on #20 in denosaurs/plug
 🎉 Merged PR #62 in denosaurs/bench
-🎉 Merged PR #3 in denosaurs/byte_type
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, January 23rd 2023, 8:18:42 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, January 23rd 2023, 9:16:21 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
