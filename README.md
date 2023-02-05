@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+❗️ Opened issue #27 in denosaurs/plug
+❗️ Opened issue #26 in denosaurs/plug
 ❗️ Opened issue #25 in denosaurs/plug
 📦 Released "1.0.1" in denosaurs/plug
 ❗️ Closed issue #23 in denosaurs/plug
@@ -33,9 +35,7 @@
 ❗️ Closed issue #1 in denosaurs/mess
 🗣 Commented on #1 in denosaurs/mess
 ❗️ Closed issue #82 in denodrivers/sqlite3
-🗣 Commented on #82 in denodrivers/sqlite3
-🗣 Commented on #53 in astrodon/astrodon
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, February 5th 2023, 12:31:59 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, February 5th 2023, 1:20:37 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
