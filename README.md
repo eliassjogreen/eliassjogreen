@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #9 in denosaurs/byte_type
+💪 Opened PR #9 in denosaurs/byte_type
 💪 Opened PR #8 in denosaurs/byte_type
 🗣 Commented on #91 in denodrivers/sqlite3
 📦 Released "0.2.0-rc.0 - A pre-release with the new refactorered api" in denosaurs/byte_type
@@ -33,9 +35,7 @@
 💪 Opened PR #7 in denosaurs/byte_type
 ❗️ Opened issue #91 in denodrivers/sqlite3
 📦 Released "0.1.0 - 🛣️" in denosaurs/rutt
-🎉 Merged PR #9 in denosaurs/rutt
-❗️ Opened issue #6 in denosaurs/byte_type
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, March 2nd 2023, 9:19:06 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, March 2nd 2023, 10:20:34 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
