@@ -25,17 +25,17 @@
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #12 in denosaurs/crux.land
+🎉 Merged PR #13 in denosaurs/crux.land
+💪 Opened PR #13 in denosaurs/crux.land
+💪 Opened PR #10 in denosaurs/emoji
+❗️ Closed issue #7 in denosaurs/emoji
 ❗️ Closed issue #8 in denosaurs/emoji
 🎉 Merged PR #9 in denosaurs/emoji
 💪 Opened PR #9 in denosaurs/emoji
 🗣 Commented on #1 in denosaurs/byte_type
 🗣 Commented on #1 in denosaurs/byte_type
-❗️ Closed issue #1 in denosaurs/byte_type
-🗣 Commented on #6 in denosaurs/event
-🎉 Merged PR #71 in denosaurs/bench
-🎉 Merged PR #70 in denosaurs/bench
-🗣 Commented on #1 in denosaurs/parry
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, April 16th 2023, 3:15:34 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, April 16th 2023, 4:20:37 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
