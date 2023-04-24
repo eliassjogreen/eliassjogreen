@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #153 in webview/webview_deno
 📦 Released "1.0.2 - support all `Deno.build.os`'s! 💽" in denosaurs/plug
 🎉 Merged PR #29 in denosaurs/plug
 💪 Opened PR #29 in denosaurs/plug
@@ -34,8 +35,7 @@
 🎉 Merged PR #13 in denosaurs/crux.land
 💪 Opened PR #13 in denosaurs/crux.land
 💪 Opened PR #10 in denosaurs/emoji
-❗️ Closed issue #7 in denosaurs/emoji
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, April 24th 2023, 8:17:04 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, April 24th 2023, 9:14:23 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
