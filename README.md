@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #13 in denosaurs/byte_type
 💪 Opened PR #13 in denosaurs/byte_type
 📦 Released "0.2.0-rc.1" in denosaurs/byte_type
 ❗️ Closed issue #5 in denosaurs/byte_type
@@ -34,8 +35,7 @@
 🎉 Merged PR #30 in denosaurs/plug
 🗣 Commented on #153 in webview/webview_deno
 📦 Released "1.0.2 - support all `Deno.build.os`'s! 💽" in denosaurs/plug
-🎉 Merged PR #29 in denosaurs/plug
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, April 27th 2023, 8:17:13 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, April 27th 2023, 9:14:14 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
