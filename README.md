@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #18 in denosaurs/byte_type
 ❗️ Closed issue #73 in denosaurs/bench
 🎉 Merged PR #75 in denosaurs/bench
 🗣 Commented on #13 in denosaurs/byte_type
@@ -34,8 +35,7 @@
 🎉 Merged PR #16 in denosaurs/byte_type
 💪 Opened PR #16 in denosaurs/byte_type
 ❗️ Closed issue #3 in denosaurs/emoji
-📦 Released "0.3.0 - Unicode 15 and various fixes" in denosaurs/emoji
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, May 5th 2023, 7:14:29 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, May 5th 2023, 8:19:49 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
