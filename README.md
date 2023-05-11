@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+🎉 Merged PR #135 in denosaurs/mod.land
+🎉 Merged PR #136 in denosaurs/mod.land
 🗣 Commented on #136 in denosaurs/mod.land
 ❗️ Opened issue #35 in denosaurs/deno_python
 ❗️ Opened issue #34 in denosaurs/deno_python
@@ -33,9 +35,7 @@
 🎉 Merged PR #2 in denosaurs/mess
 💪 Opened PR #2 in denosaurs/mess
 🎉 Merged PR #17 in denosaurs/byte_type
-🗣 Commented on #17 in denosaurs/byte_type
-🗣 Commented on #18 in denosaurs/byte_type
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, May 11th 2023, 7:14:59 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, May 11th 2023, 8:20:13 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
