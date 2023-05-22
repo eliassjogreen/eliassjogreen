@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #7 in denosaurs/wait
+❗️ Closed issue #13 in denosaurs/wait
 📦 Released "0.0.1-pre.2" in denosaurs/mess
 🎉 Merged PR #3 in denosaurs/mess
 💪 Opened PR #3 in denosaurs/mess
@@ -33,9 +35,7 @@
 💪 Opened PR #22 in anvaka/map-of-github-data
 🍴 Forked eliassjogreen/map-of-github-data from anvaka/map-of-github-data
 🎉 Merged PR #138 in denosaurs/mod.land
-🎉 Merged PR #137 in denosaurs/mod.land
-🗣 Commented on #18 in denosaurs/byte_type
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, May 22nd 2023, 5:14:13 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, May 22nd 2023, 6:19:53 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
