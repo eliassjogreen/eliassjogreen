@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+💪 Opened PR #14 in denosaurs/crux.land
 🎉 Merged PR #15 in denosaurs/wait
 📦 Released "0.1.13" in denosaurs/wait
 ❗️ Closed issue #7 in denosaurs/wait
@@ -34,8 +35,7 @@
 💪 Opened PR #3 in denosaurs/mess
 🎉 Merged PR #139 in denosaurs/mod.land
 🎉 Merged PR #32 in denosaurs/plug
-💪 Opened PR #22 in anvaka/map-of-github-data
 ```
 
 ------------
-<p align="center">Last refresh: <b>Tuesday, June 13th 2023, 2:14:58 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Tuesday, June 13th 2023, 3:16:07 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
