@@ -25,6 +25,9 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.2.6" in denosaurs/deno_python
+❗️ Closed issue #33 in denosaurs/deno_python
+🎉 Merged PR #40 in denosaurs/deno_python
 🗣 Commented on #33 in denosaurs/deno_python
 🗣 Commented on #1 in tr1ckydev/webview-bun
 ❗️ Opened issue #1 in tr1ckydev/webview-bun
@@ -32,10 +35,7 @@
 📦 Released "v0.2.5" in denosaurs/deno_python
 🎉 Merged PR #37 in denosaurs/deno_python
 ❗️ Opened issue #38 in denosaurs/deno_python
-🎉 Merged PR #140 in denosaurs/mod.land
-🎉 Merged PR #81 in denosaurs/bench
-🗣 Commented on #46 in denosaurs/bench
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, July 21st 2023, 7:14:36 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, July 21st 2023, 8:20:13 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
