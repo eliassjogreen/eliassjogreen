@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+💪 Opened PR #41 in denosaurs/deno_python
 📦 Released "0.2.6" in denosaurs/deno_python
 ❗️ Closed issue #33 in denosaurs/deno_python
 🎉 Merged PR #40 in denosaurs/deno_python
@@ -34,8 +35,7 @@
 ❗️ Opened issue #39 in denosaurs/deno_python
 📦 Released "v0.2.5" in denosaurs/deno_python
 🎉 Merged PR #37 in denosaurs/deno_python
-❗️ Opened issue #38 in denosaurs/deno_python
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, July 21st 2023, 12:32:21 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, July 21st 2023, 1:19:31 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
