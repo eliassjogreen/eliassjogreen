@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.3.0 - Better `PythonError`s!" in denosaurs/deno_python
 🗣 Commented on #32 in denosaurs/deno_python
 ❗️ Closed issue #32 in denosaurs/deno_python
 🗣 Commented on #38 in denosaurs/deno_python
@@ -34,8 +35,7 @@
 ❌ Reopened PR #735 in webview/webview
 🗣 Commented on #735 in webview/webview
 ❗️ Closed issue #12 in denosaurs/emoji
-🗣 Commented on #12 in denosaurs/emoji
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, August 7th 2023, 1:19:21 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, August 7th 2023, 2:14:49 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
