@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.3.1 - PIP Support!" in denosaurs/deno_python
+🎉 Merged PR #43 in denosaurs/deno_python
 🗣 Commented on #40 in denoland/wanted_modules
 🗣 Commented on #67 in denoland/wanted_modules
 📦 Released "0.3.0 - Better `PythonError`s!" in denosaurs/deno_python
@@ -33,9 +35,7 @@
 🗣 Commented on #38 in denosaurs/deno_python
 ❌ Closed PR #735 in webview/webview
 ❗️ Reopened issue #578 in webview/webview
-🗣 Commented on #578 in webview/webview
-❌ Reopened PR #735 in webview/webview
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, August 11th 2023, 8:18:26 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, August 11th 2023, 9:14:26 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
