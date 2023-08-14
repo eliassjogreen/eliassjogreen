@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.3.2 - Fix types" in denosaurs/deno_python
+🎉 Merged PR #45 in denosaurs/deno_python
 💪 Opened PR #45 in denosaurs/deno_python
 🗣 Commented on #5 in lino-levan/astral
 🗣 Commented on #44 in denosaurs/deno_python
@@ -33,9 +35,7 @@
 🗣 Commented on #40 in denoland/wanted_modules
 🗣 Commented on #67 in denoland/wanted_modules
 📦 Released "0.3.0 - Better `PythonError`s!" in denosaurs/deno_python
-🗣 Commented on #32 in denosaurs/deno_python
-❗️ Closed issue #32 in denosaurs/deno_python
 ```
 
 ------------
-<p align="center">Last refresh: <b>Monday, August 14th 2023, 9:15:12 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Monday, August 14th 2023, 10:16:16 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
