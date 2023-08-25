@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.0.1-pre.3" in denosaurs/mess
+🎉 Merged PR #4 in denosaurs/mess
 💪 Opened PR #4 in denosaurs/mess
 🗣 Commented on #5849 in edgedb/edgedb
 📦 Released "0.3.2 - Fix types" in denosaurs/deno_python
@@ -33,9 +35,7 @@
 🗣 Commented on #5 in lino-levan/astral
 🗣 Commented on #44 in denosaurs/deno_python
 📦 Released "0.3.1 - PIP Support!" in denosaurs/deno_python
-🎉 Merged PR #43 in denosaurs/deno_python
-🗣 Commented on #40 in denoland/wanted_modules
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, August 25th 2023, 11:12:11 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, August 25th 2023, 12:29:35 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
