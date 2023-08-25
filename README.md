@@ -25,6 +25,9 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.2.0 - Deno.serve support!" in denosaurs/rutt
+🎉 Merged PR #10 in denosaurs/rutt
+💪 Opened PR #10 in denosaurs/rutt
 📦 Released "0.0.1-pre.3" in denosaurs/mess
 🎉 Merged PR #4 in denosaurs/mess
 💪 Opened PR #4 in denosaurs/mess
@@ -32,10 +35,7 @@
 📦 Released "0.3.2 - Fix types" in denosaurs/deno_python
 🎉 Merged PR #45 in denosaurs/deno_python
 💪 Opened PR #45 in denosaurs/deno_python
-🗣 Commented on #5 in lino-levan/astral
-🗣 Commented on #44 in denosaurs/deno_python
-📦 Released "0.3.1 - PIP Support!" in denosaurs/deno_python
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, August 25th 2023, 10:14:18 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, August 25th 2023, 11:15:26 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
