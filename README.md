@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.4.0 - 🥟 Bun support!" in denosaurs/deno_python
 🎉 Merged PR #158 in webview/webview_deno
 🎉 Merged PR #46 in denosaurs/deno_python
 📦 Released "0.2.0 - Deno.serve support!" in denosaurs/rutt
@@ -34,8 +35,7 @@
 🎉 Merged PR #4 in denosaurs/mess
 💪 Opened PR #4 in denosaurs/mess
 🗣 Commented on #5849 in edgedb/edgedb
-📦 Released "0.3.2 - Fix types" in denosaurs/deno_python
 ```
 
 ------------
-<p align="center">Last refresh: <b>Thursday, September 21st 2023, 11:13:11 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Thursday, September 21st 2023, 12:32:13 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
