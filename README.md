@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+❗️ Closed issue #55 in denosaurs/deno_python
+🎉 Merged PR #60 in denosaurs/deno_python
 ❌ Closed PR #76 in trynova/nova
 💪 Opened PR #76 in trynova/nova
 🎉 Merged PR #91 in denosaurs/bench
@@ -33,8 +35,7 @@
 🗣 Commented on #56 in denosaurs/deno_python
 📦 Released "0.1.3 - Modernize stuff!" in denosaurs/deno_lz4
 🎉 Merged PR #3 in denosaurs/deno_lz4
-💪 Opened PR #70 in trynova/nova
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, December 10th 2023, 8:16:15 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, December 10th 2023, 9:13:15 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
