@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+💪 Opened PR #28 in 5monkeys/5monkeys.github.io
 💪 Opened PR #27 in 5monkeys/5monkeys.github.io
 💪 Opened PR #26 in 5monkeys/5monkeys.github.io
 🍴 Forked eliassjogreen/5monkeys.github.io from 5monkeys/5monkeys.github.io
@@ -34,8 +35,7 @@
 🗣 Commented on #93 in denosaurs/bench
 🎉 Merged PR #92 in denosaurs/bench
 🎉 Merged PR #13 in denosaurs/emoji
-❌ Closed PR #28 in denosaurs/neo
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, January 3rd 2024, 11:13:55 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, January 3rd 2024, 12:31:20 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
