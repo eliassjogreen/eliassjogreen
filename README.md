@@ -17,7 +17,7 @@
 #### Top
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 1363 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
+| 📦 | 1362 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 | 📦 | 1092 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 | 📦 | 23 | [eliassjogreen/Reddit-Bot-List](https://github.com/eliassjogreen/Reddit-Bot-List) | ⚡️🤖 A list of Reddit bots |
 | 📦 | 18 | [denosaurs/parry](https://github.com/denosaurs/parry) | 👷🏽‍♂️ Run deno functions in WebWorkers |
@@ -38,4 +38,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, March 3rd 2024, 5:13:10 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, March 3rd 2024, 6:18:29 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
