@@ -25,6 +25,9 @@
 ### 🗣 My activity:
 
 ```
+🗣 Commented on #1 in denosaurs/commit
+❌ Closed PR #148 in denosaurs/mod.land
+🎉 Merged PR #168 in webview/webview_deno
 ❗️ Closed issue #14 in denosaurs/emoji
 🗣 Commented on #14 in denosaurs/emoji
 📦 Released "1.0.6" in denosaurs/plug
@@ -32,10 +35,7 @@
 🎉 Merged PR #38 in denosaurs/plug
 💪 Opened PR #38 in denosaurs/plug
 🎉 Merged PR #37 in denosaurs/plug
-🎉 Merged PR #96 in denosaurs/bench
-🗣 Commented on #96 in denosaurs/bench
-🗣 Commented on #34 in denosaurs/byte_type
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, May 8th 2024, 7:17:35 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, May 8th 2024, 8:19:21 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
