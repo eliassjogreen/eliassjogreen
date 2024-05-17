@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+🍴 Forked eliassjogreen/FirefoxSidebar from drannex42/FirefoxSidebar
 💪 Opened PR #180 in trynova/nova
 🗣 Commented on #1 in denosaurs/commit
 ❌ Closed PR #148 in denosaurs/mod.land
@@ -34,8 +35,7 @@
 📦 Released "1.0.6" in denosaurs/plug
 📦 Released "1.0.5" in denosaurs/plug
 🎉 Merged PR #38 in denosaurs/plug
-💪 Opened PR #38 in denosaurs/plug
 ```
 
 ------------
-<p align="center">Last refresh: <b>Friday, May 17th 2024, 7:16:01 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Friday, May 17th 2024, 8:21:23 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
