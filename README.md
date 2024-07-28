@@ -25,6 +25,7 @@
 ### 🗣 My activity:
 
 ```
+💪 Opened PR #13 in trynova/website
 💪 Opened PR #356 in trynova/nova
 💪 Opened PR #355 in trynova/nova
 💪 Opened PR #354 in trynova/nova
@@ -34,8 +35,7 @@
 🗣 Commented on #351 in trynova/nova
 🗣 Commented on #351 in trynova/nova
 🎉 Merged PR #12 in trynova/website
-❗️ Closed issue #6 in trynova/website
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, July 28th 2024, 2:15:16 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, July 28th 2024, 3:18:07 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
