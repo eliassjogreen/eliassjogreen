@@ -25,6 +25,8 @@
 ### 🗣 My activity:
 
 ```
+📦 Released "0.3.0" in denosaurs/rutt
+🎉 Merged PR #13 in denosaurs/rutt
 ❗️ Opened issue #11 in denosaurs/typefetch
 ❗️ Opened issue #10 in denosaurs/typefetch
 🎉 Merged PR #16 in trynova/website
@@ -33,9 +35,7 @@
 🗣 Commented on #15 in denosaurs/emoji
 📦 Released "0.3.1" in denosaurs/emoji
 🗣 Commented on #15 in denosaurs/emoji
-❌ Closed PR #15 in denosaurs/emoji
-🗣 Commented on #15 in denosaurs/emoji
 ```
 
 ------------
-<p align="center">Last refresh: <b>Wednesday, September 18th 2024, 10:18:45 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Wednesday, September 18th 2024, 11:19:00 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
