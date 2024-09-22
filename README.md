@@ -25,17 +25,17 @@
 ### 🗣 My activity:
 
 ```
-❗️ Closed issue #4 in denosaurs/typefetch
-🎉 Merged PR #12 in denosaurs/typefetch
-💪 Opened PR #12 in denosaurs/typefetch
-📦 Released "0.3.0" in denosaurs/rutt
-🎉 Merged PR #13 in denosaurs/rutt
-❗️ Opened issue #11 in denosaurs/typefetch
-❗️ Opened issue #10 in denosaurs/typefetch
-🎉 Merged PR #16 in trynova/website
-💪 Opened PR #16 in trynova/website
-🗣 Commented on #415 in trynova/nova
+📦 Released "0.2.0 - Remove deprecated dependencies and publish to JSR" in denosaurs/wait
+🎉 Merged PR #18 in denosaurs/wait
+💪 Opened PR #18 in denosaurs/wait
+📦 Released "0.2.1" in denosaurs/tty
+🎉 Merged PR #3 in denosaurs/tty
+💪 Opened PR #3 in denosaurs/tty
+📦 Released "0.2.0" in denosaurs/tty
+🎉 Merged PR #2 in denosaurs/tty
+💪 Opened PR #2 in denosaurs/tty
+🗣 Commented on #16 in denosaurs/emoji
 ```
 
 ------------
-<p align="center">Last refresh: <b>Sunday, September 22nd 2024, 2:16:37 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Sunday, September 22nd 2024, 3:19:03 pm UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
