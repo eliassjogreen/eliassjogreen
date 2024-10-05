@@ -17,7 +17,7 @@
 #### Top
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 1407 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
+| 📦 | 1408 | [webview/webview_deno](https://github.com/webview/webview_deno) | 🌐 Deno bindings for webview, a tiny library for creating web-based desktop GUIs |
 | 📦 | 1103 | [denosaurs/denon](https://github.com/denosaurs/denon) | 👀 Monitor any changes in your Deno application and automatically restart. |
 | 📦 | 26 | [eliassjogreen/Reddit-Bot-List](https://github.com/eliassjogreen/Reddit-Bot-List) | ⚡️🤖 A list of Reddit bots |
 | 📦 | 20 | [tryandromeda/andromeda](https://github.com/tryandromeda/andromeda) | JS/TS Runtime in rust powered by Nova with no transpilation BS |
@@ -38,4 +38,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: <b>Saturday, October 5th 2024, 8:24:29 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
+<p align="center">Last refresh: <b>Saturday, October 5th 2024, 9:22:25 am UTC</b>. Created with <a href=https://github.com/marketplace/actions/profile-readme>@actions-js/profile-readme</a>.</p>
